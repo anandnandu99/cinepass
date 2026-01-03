@@ -1,0 +1,9 @@
+{
+  "name": "CinePass - Premium Movie Booking",
+  "description": "A feature-rich movie ticketing platform with AI-powered recommendations, interactive seat selection, and a sleek modern cinema interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
